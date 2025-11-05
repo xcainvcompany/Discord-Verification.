@@ -1,0 +1,49 @@
+{
+  "ownerId": "",
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "channels": {
+    "getCode": "",
+    "verify": "",
+    "welcome": "",
+    "verifiedAnnounce": "",
+    "chat": "",
+    "support": "",
+    "logs": ""
+  },
+  "roles": {
+    "member": "",
+    "verified": ""
+  },
+  "codeLength": 6,
+  "codeTtlMin": 15,
+  "dmDeleteAfterSec": 300,
+  "autoAssignOnJoin": true,
+  "toggles": {
+    "welcomeOnJoin": true,
+    "announceOnVerify": true,
+    "fallbackEphemeralCode": false
+  },
+  "emojis": {
+    "button": {
+      "id": "",
+      "name": "getcode",
+      "animated": true
+    },
+    "stars": "<:stars:1404671310168199259>",
+    "verify_black": "<a:Verifyfast:1412280968869445682>",
+    "verify_blue": "<a:veriflink:1412333365457195079>"
+  },
+  "messages": {
+    "alreadyVerifiedButton": "You\u2019re already verified, nigga's",
+    "alreadyVerifiedSlash": "Already verified, nigga's",
+    "wrongPlace": "Use the correct channel, please."
+  },
+  "welcomeImage": {
+    "enabled": true,
+    "baseUrl": "",
+    "defaultBgId": "purple",
+    "shadow": true
+  }
+}

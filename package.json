@@ -1,0 +1,14 @@
+{
+  "name": "verify-bot-final-plus",
+  "version": "4.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "jimp": "^0.22.12"
+  }
+}
